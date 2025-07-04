@@ -26,4 +26,4 @@ The program uses the `socket` module to attempt a connection to each port in the
 
 ### 💻 Run the Script
 ```bash
-python port_scanner.py
+Scanner.py
